@@ -1,0 +1,1 @@
+insert into classes values(3,"2022/2023","11BFEM")
